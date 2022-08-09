@@ -1,0 +1,4 @@
+﻿  WordJumble.cpp
+C:\codeCPP\Games\WordJumble\WordJumble\WordJumble.cpp(37,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\codeCPP\Games\WordJumble\WordJumble\WordJumble.cpp(75,33): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  WordJumble.vcxproj -> C:\codeCPP\Games\WordJumble\x64\Debug\WordJumble.exe
